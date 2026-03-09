@@ -1,6 +1,6 @@
 # pi-coding-agent-extensions
 
-A collection of community extensions for [pi-coding-agent](https://github.com/nicepkg/pi-coding-agent) — the open-source AI coding agent that runs in your terminal.
+A collection of extensions for [pi-coding-agent](https://github.com/nicepkg/pi-coding-agent) — the open-source AI coding agent that runs in your terminal.
 
 ## Extensions
 
